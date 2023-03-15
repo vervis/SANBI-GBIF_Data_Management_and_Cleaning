@@ -5,4 +5,4 @@
 * <a href="https://github.com/vervis/SANBI-GBIF_Data_Management_and_Cleaning/blob/lecture_slides/3Issues_with_biodiversity_data.pdf">Lecture 3: Issues with biodiversity data</a>
 
 
-<a href="https://github.com/vervis/SANBI-GBIF_Data_Management_and_Cleaning/tree/data">Data</a>
+<a href="https://www.dropbox.com/sh/r8o892cujyjj364/AAAbG4ir7NJAlfhyERKGefIFa?dl=0">Data</a>
